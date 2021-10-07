@@ -1,0 +1,7 @@
+{
+  "name": "mba-fiap",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
