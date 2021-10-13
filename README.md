@@ -1,0 +1,1 @@
+Para testar, execute `ionic server`
