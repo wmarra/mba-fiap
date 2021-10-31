@@ -1,1 +1,1 @@
-Para testar, execute `ionic server`
+Para testar, execute `ionic serve`
